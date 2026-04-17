@@ -1,0 +1,242 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "Prime Craft Media" [ref=e4] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e5]:
+        - link "Case Studies" [ref=e6] [cursor=pointer]:
+          - /url: "#case-studies"
+        - link "Services" [ref=e7] [cursor=pointer]:
+          - /url: "#services"
+        - link "How It Works" [ref=e8] [cursor=pointer]:
+          - /url: "#how-it-works"
+        - link "Contact" [ref=e9] [cursor=pointer]:
+          - /url: "#contact"
+      - link "Talk to Us" [ref=e10] [cursor=pointer]:
+        - /url: "#book"
+  - generic [ref=e13]:
+    - generic [ref=e14]:
+      - generic [ref=e15]: We Only Work With Healthcare
+      - heading "You started a podcast to build authority. Not to chase followers." [level=1] [ref=e17]:
+        - text: You started a podcast to build
+        - emphasis [ref=e18]: authority.
+        - text: Not to chase
+        - emphasis [ref=e19]: followers.
+      - paragraph [ref=e20]: "We've worked exclusively with physicians, dentists, and healthcare leaders. We know you're busy. We know vanity metrics don't pay the bills. So we focus on what actually matters: referrals, patient trust, and becoming the name your industry thinks of first."
+      - generic [ref=e21]:
+        - link "Get Your Free Podcast Audit" [ref=e22] [cursor=pointer]:
+          - /url: "#book"
+          - text: Get Your Free Podcast Audit
+          - img [ref=e23]
+        - link "See the Results" [ref=e25] [cursor=pointer]:
+          - /url: "#case-studies"
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]: Beyond the Arches Podcast
+        - generic [ref=e29]: 38.5K
+        - generic [ref=e30]: views in 28 days. New patients calling in from clips they saw on Instagram.
+      - generic [ref=e31]:
+        - generic [ref=e32]: Dr. Avi Patel
+        - generic [ref=e33]: 2K → 48K
+        - generic [ref=e34]: The audience that now sees him as the go-to in his specialty.
+      - generic [ref=e35]:
+        - generic [ref=e36]: Dr. Ellie Halibian
+        - generic [ref=e37]: 100K+
+        - generic [ref=e38]: views on clips. Referring dentists reaching out after watching.
+  - generic [ref=e40]:
+    - paragraph [ref=e41]: We've worked with healthcare professionals. Only healthcare professionals.
+    - generic [ref=e42]:
+      - generic [ref=e43]: 3D Dentists
+      - generic [ref=e44]: The Lifestyle Practice
+      - generic [ref=e45]: Beyond the Arches
+      - generic [ref=e46]: ASAP Pathway
+      - generic [ref=e47]: Done In One
+      - generic [ref=e48]: Yonkers Ave Dental
+  - generic [ref=e51]:
+    - generic [ref=e52]:
+      - generic [ref=e54]: 50+
+      - generic [ref=e55]: Healthcare Clients
+    - generic [ref=e56]:
+      - generic [ref=e58]: 95%
+      - generic [ref=e59]: Client Retention
+    - generic [ref=e60]:
+      - generic [ref=e62]: 3M+
+      - generic [ref=e63]: Content Views
+    - generic [ref=e64]:
+      - generic [ref=e65]: 100%
+      - generic [ref=e66]: Healthcare Focus
+  - generic [ref=e68]:
+    - generic [ref=e69]:
+      - generic [ref=e70]: We Get It
+      - heading "You didn't go through years of training to become a content creator." [level=2] [ref=e71]
+      - paragraph [ref=e72]: You started your podcast because you have clinical insights worth sharing. Because you wanted to build authority in your specialty, attract better referrals, and give patients a reason to trust you before they ever walk through the door. Not to learn Instagram algorithms.
+    - generic [ref=e73]:
+      - generic [ref=e75]:
+        - generic [ref=e76]: ⏰
+        - heading "You're between patients, not between posts" [level=3] [ref=e77]
+        - paragraph [ref=e78]: Your days are full. Surgeries, consults, case reviews. The idea of clipping episodes, writing hooks, and scheduling posts on top of that? That's not realistic. And you know it.
+      - generic [ref=e80]:
+        - generic [ref=e81]: 📊
+        - heading "Follower counts don't book consultations" [level=3] [ref=e82]
+        - paragraph [ref=e83]: You've seen other doctors chase likes and go viral with dance trends. That's not you. You need the right 500 people seeing your content, not the wrong 50,000. You need referral partners, not random followers.
+      - generic [ref=e85]:
+        - generic [ref=e86]: 🎯
+        - heading "Your expertise deserves better distribution" [level=3] [ref=e87]
+        - paragraph [ref=e88]: Every episode you record has insights that could change how patients make decisions, how peers view your work, and how your name travels in the industry. But right now, most of that value disappears after upload day.
+  - generic [ref=e90]:
+    - generic [ref=e91]:
+      - generic [ref=e92]: What We Actually Do
+      - heading "We handle the content. You stay focused on patient care." [level=2] [ref=e93]
+      - paragraph [ref=e94]: We've built these systems specifically for healthcare professionals. Not tech startups, not lifestyle influencers. Doctors, dentists, and clinicians who need their expertise to travel further than the waiting room.
+    - generic [ref=e95]:
+      - generic [ref=e97]:
+        - generic [ref=e98]: "01"
+        - heading "Podcast Packaging & Distribution" [level=3] [ref=e99]
+        - paragraph [ref=e100]: You record the conversation. We handle everything after. Full production, show notes, distribution across every platform. Your only job is showing up and being the expert you already are.
+      - generic [ref=e102]:
+        - generic [ref=e103]: "02"
+        - heading "Clinical Clip Strategy" [level=3] [ref=e104]
+        - paragraph [ref=e105]: We know which moments resonate with patients and which ones earn respect from peers. We pull the clips that position you as the authority, not the ones that just get cheap engagement.
+      - generic [ref=e107]:
+        - generic [ref=e108]: "03"
+        - heading "Referral-Driven Social Growth" [level=3] [ref=e109]
+        - paragraph [ref=e110]: We don't chase follower counts. We build the kind of presence that makes referring physicians confident sending patients your way. The kind where colleagues say "I saw your post" at the next conference.
+      - generic [ref=e112]:
+        - generic [ref=e113]: "04"
+        - heading "Physician Personal Brand" [level=3] [ref=e114]
+        - paragraph [ref=e115]: Your CV speaks to committees. Your personal brand speaks to patients, referral partners, and the industry. We build the public-facing reputation that matches the clinical work you've already done.
+      - generic [ref=e117]:
+        - generic [ref=e118]: "05"
+        - heading "Targeted Paid Amplification" [level=3] [ref=e119]
+        - paragraph [ref=e120]: When a piece of content is working organically, we put budget behind it to reach the exact patient demographic or professional audience that moves the needle for your practice.
+      - generic [ref=e122]:
+        - generic [ref=e123]: "06"
+        - heading "Content-to-Consultation Funnels" [level=3] [ref=e124]
+        - paragraph [ref=e125]: The gap between someone watching your clip and someone booking a consultation? That's where most healthcare content fails. We build the bridge — landing pages, lead capture, and follow-up systems that convert attention into appointments.
+  - generic [ref=e128]:
+    - heading "We don't report vanity metrics. We report patients booked and referrals earned." [level=2] [ref=e129]:
+      - text: We don't report vanity metrics.
+      - text: We report patients booked and referrals earned.
+    - paragraph [ref=e130]: 20 minutes. We'll audit your podcast and show you exactly what's being left on the table.
+    - link "Book Your Free Audit" [ref=e131] [cursor=pointer]:
+      - /url: "#book"
+      - text: Book Your Free Audit
+      - img [ref=e132]
+  - generic [ref=e135]:
+    - generic [ref=e136]:
+      - generic [ref=e137]: Case Studies
+      - heading "Healthcare professionals we've worked with. Not hypotheticals." [level=2] [ref=e138]
+      - paragraph [ref=e139]: Every client here is a practicing clinician. We understand the compliance considerations, the patient sensitivity, and the professional standards your content needs to meet.
+    - generic [ref=e140]:
+      - generic [ref=e142]:
+        - generic [ref=e144]:
+          - generic [ref=e145]: 24x
+          - generic [ref=e146]: Follower Growth
+        - generic [ref=e147]:
+          - generic [ref=e148]: Dr. Avi Patel
+          - generic [ref=e149]: 3D Dentists / The Lifestyle Practice
+          - generic [ref=e150]:
+            - generic [ref=e151]: Instagram
+            - generic [ref=e152]: 2K → 48K
+          - generic [ref=e153]:
+            - generic [ref=e154]: YouTube
+            - generic [ref=e155]: 300 → 13K subs
+          - generic [ref=e156]:
+            - generic [ref=e157]: Timeline
+            - generic [ref=e158]: ~8 months
+      - generic [ref=e160]:
+        - generic [ref=e162]:
+          - generic [ref=e163]: 100K+
+          - generic [ref=e164]: Views per Clip
+        - generic [ref=e165]:
+          - generic [ref=e166]: Dr. Ellie Halibian
+          - generic [ref=e167]: Dental Specialist & Content Creator
+          - generic [ref=e168]:
+            - generic [ref=e169]: Clip performance
+            - generic [ref=e170]: 20K–100K+ views
+          - generic [ref=e171]:
+            - generic [ref=e172]: Hook rework
+            - generic [ref=e173]: Complete overhaul
+          - generic [ref=e174]:
+            - generic [ref=e175]: Viral clips
+            - generic [ref=e176]: Multiple
+      - generic [ref=e178]:
+        - generic [ref=e180]:
+          - generic [ref=e181]: 38.5K
+          - generic [ref=e182]: Views in 28 Days
+        - generic [ref=e183]:
+          - generic [ref=e184]: Beyond the Arches
+          - generic [ref=e185]: Dental Implant Podcast & Brand
+          - generic [ref=e186]:
+            - generic [ref=e187]: Reel views
+            - generic [ref=e188]: 10K+ per reel
+          - generic [ref=e189]:
+            - generic [ref=e190]: Strategy
+            - generic [ref=e191]: Hook reworks
+          - generic [ref=e192]:
+            - generic [ref=e193]: First month
+            - generic [ref=e194]: 38.5K total views
+  - generic [ref=e197]:
+    - generic [ref=e198]: “
+    - paragraph [ref=e199]: I was skeptical because most agencies don't understand healthcare. They want you to do trending audio and point at things. These guys understood from day one that my content needs to build clinical credibility, not just get views. The referrals I'm getting now from other dentists who found me through Instagram? That never happened before.
+    - generic [ref=e200]:
+      - generic [ref=e201]: AP
+      - generic [ref=e202]:
+        - strong [ref=e203]: Dr. Avi Patel
+        - text: 3D Dentists / The Lifestyle Practice
+  - generic [ref=e205]:
+    - generic [ref=e206]:
+      - generic [ref=e207]: How It Works
+      - heading "We designed this to respect your time." [level=2] [ref=e208]
+      - paragraph [ref=e209]: You're running a practice. You don't have 3 hours a week to "review content calendars." Here's how we keep your involvement to the absolute minimum.
+    - generic [ref=e211]:
+      - generic [ref=e212]:
+        - generic [ref=e213]: "01"
+        - heading "Free Audit" [level=4] [ref=e214]
+        - paragraph [ref=e215]: We review your current podcast, social presence, and competitive landscape. You get a clear picture of what's working, what's not, and where the growth is.
+      - generic [ref=e216]:
+        - generic [ref=e217]: "02"
+        - heading "Strategy" [level=4] [ref=e218]
+        - paragraph [ref=e219]: We build a plan around your clinical specialty, your patient demographic, and the professional reputation you want to build. Not a generic template.
+      - generic [ref=e220]:
+        - generic [ref=e221]: "03"
+        - heading "We Take Over" [level=4] [ref=e222]
+        - paragraph [ref=e223]: Production, clipping, social, distribution. You keep seeing patients. We keep building your presence. One check-in per week, that's it.
+      - generic [ref=e224]:
+        - generic [ref=e225]: "04"
+        - heading "Measurable Growth" [level=4] [ref=e226]
+        - paragraph [ref=e227]: New patient inquiries, referral partner engagement, consultation bookings. We track what actually impacts your practice, not just what looks good on a dashboard.
+  - generic [ref=e229]:
+    - generic [ref=e230]:
+      - generic [ref=e231]: Who This Is For
+      - heading "We work with clinicians who want to be known for their work. Not their TikTok." [level=2] [ref=e232]
+    - generic [ref=e233]:
+      - generic [ref=e235]:
+        - generic [ref=e236]: 🏥
+        - heading "Physicians & Specialists with Podcasts" [level=3] [ref=e237]
+        - paragraph [ref=e238]: You started the podcast to share clinical perspectives, attract referrals, and build thought leadership. We make sure the right people actually hear it.
+      - generic [ref=e240]:
+        - generic [ref=e241]: 🦷
+        - heading "DSOs & Multi-Location Dental Groups" [level=3] [ref=e242]
+        - paragraph [ref=e243]: You have 10, 50, 200 doctors across locations. Each one has expertise worth surfacing. We turn that into a content system that builds authority across your entire network.
+      - generic [ref=e245]:
+        - generic [ref=e246]: 🧬
+        - heading "Healthcare Educators & Thought Leaders" [level=3] [ref=e247]
+        - paragraph [ref=e248]: CME speakers, published researchers, clinical trainers. Your knowledge shapes how other professionals practice. We make sure it reaches them outside the lecture hall.
+  - generic [ref=e250]:
+    - heading "Your patients are searching for someone they trust. Make sure they find you." [level=2] [ref=e251]:
+      - text: Your patients are searching for someone they trust.
+      - emphasis [ref=e252]: Make sure they find you.
+    - paragraph [ref=e253]: 20 minutes. No pitch deck, no pressure. Just a straightforward conversation about your podcast and where the growth is.
+    - link "Book Your Free Audit Call" [ref=e254] [cursor=pointer]:
+      - /url: https://calendly.com
+      - text: Book Your Free Audit Call
+      - img [ref=e255]
+    - paragraph [ref=e257]: No contracts. No jargon. Just a conversation between people who understand healthcare.
+  - contentinfo [ref=e258]:
+    - paragraph [ref=e260]:
+      - text: © 2026
+      - link "Prime Craft Media" [ref=e261] [cursor=pointer]:
+        - /url: "#"
+      - text: . Healthcare Podcast Growth Division.
+  - alert [ref=e262]
